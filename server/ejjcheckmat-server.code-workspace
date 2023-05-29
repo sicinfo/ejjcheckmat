@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "client",
+			"path": "client"
+		},
+		{
+			"name": "server",
+			"path": "server"
+		},
+		{
+			"name": "invictus",
+			"path": "../invictus/src"
+		},
+		{
+			"name": "middleware",
+			"path": "../middleware/src"
+		},
+		{
+			"name": "router",
+			"path": "../router/src"
+		}
+	],
+	"settings": {
+		"editor.insertSpaces": true,
+		"editor.tabSize": 2,
+		"files.exclude": {
+			"*.code-workspace": true,
+			"html": true
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "System",
+    "moduleResolution": "node",
+    "checkJs": true,
+    "baseUrl": ".",
+    "noImplicitAny": false,
+    "noResolve": false,
+    "noUnusedLocals": false,
+    "resolvePackageJsonImports": false
+  },
+  "exclude": ["**/*copy.js", "*.json"]
+}
+

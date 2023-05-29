@@ -1,0 +1,35 @@
+{
+  "imports": {
+    "axios": "https://unpkg.com/axios@1.4/dist/axios.min.js",
+
+    "react":              "https://cdn.jsdelivr.net/npm/react@18/umd/react.production.min.js",
+    "_react":             "https://unpkg.com/react@18/umd/react.development.js",
+    "react-dom":          "https://cdn.jsdelivr.net/npm/react-dom@18/umd/react-dom.production.min.js",
+    "@remix-run/router":  "https://cdn.jsdelivr.net/npm/@remix-run/router@1/dist/router.umd.min.js",
+    "_@remix-run/router": "https://unpkg.com/@remix-run/router@1/dist/router.umd.min.js",
+    "react-router":       "https://cdn.jsdelivr.net/npm/react-router@6/dist/umd/react-router.production.min.js",
+    "react-router-dom":   "https://cdn.jsdelivr.net/npm/react-router-dom@6/dist/umd/react-router-dom.production.min.js",
+
+    "home-component":     "/js/components/home-component.js",
+    "registro-component": "/js/components/registro-component.js",
+
+    "label-component":      "/js/components/libs/label-component.js",
+    "input-component":      "/js/components/libs/forms/input-component.js",
+    "form-component":       "/js/components/libs/forms/form-component.js",
+
+    "input-checkbox-component": "/js/components/libs/forms/input/checkbox-component.js",
+    "input-currency-component": "/js/components/libs/forms/input/currency-component.js",
+    "input-date-component":     "/js/components/libs/forms/input/date-component.js",
+    "input-password-component": "/js/components/libs/forms/input/password-component.js",
+    "input-select-component":   "/js/components/libs/forms/input/select-component.js",
+    "input-text-component":     "/js/components/libs/forms/input/text-component.js",
+
+    "footer-component":  "/js/components/footer-component.js",
+    "header-component":  "/js/components/header-component.js",
+    "menu-component":    "/js/components/menu-component.js",
+    "router-component":  "/js/components/router-component.js",
+    "section-component": "/js/components/section-component.js",
+
+    "app-component":     "/js/components/app-component.js"
+  }
+}  
