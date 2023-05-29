@@ -30,6 +30,7 @@
     "router-component":  "/js/components/router-component.js",
     "section-component": "/js/components/section-component.js",
 
+    
     "app-component":     "/js/components/app-component.js"
   }
 }  
