@@ -18,7 +18,8 @@
   },
   "dependencies": {
     "sicinfo-router": "github:sicinfo/router#semver:^v0.1",
-    "sicinfo-middleware": "github:sicinfo/middleware#semver:^v0.1"
+    "sicinfo-middleware": "github:sicinfo/middleware#semver:^v0.1",
+    "sicinfo-authjs": "github:sicinfo/authjs#semver:^v0.1"
   },
   "author": "moreira",
   "license": "ISC"
